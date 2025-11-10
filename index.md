@@ -1,4 +1,4 @@
-**Name:** Reema alsaeed
+**Name:** Reema alsaeed  
 **Email:** ralsaeed@ucsd.edu  
-**Section:** B13 (Domain 1)
-**Mentor:** Ilyes Meftah
+**Section:** B13 (Domain 1)  
+**Mentor:** Ilyes Meftah  
